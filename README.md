@@ -11,7 +11,7 @@
 
 -  I’m looking to collaborate on making **AI tools**.
 
--  I enjoy making beginner-friendly **tech content**.
+-  I enjoy learning **new tech**.
 
 -  How to reach me **alt.akshay.sinha@gmail.com**
 
