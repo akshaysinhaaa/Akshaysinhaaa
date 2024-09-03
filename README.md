@@ -15,12 +15,6 @@
 
 -  How to reach me **alt.akshay.sinha@gmail.com**
 
-##
-In your terminal:
-```bash
-npx hi-dakshi
-```
-
 ## 
 ### Highlights
 
